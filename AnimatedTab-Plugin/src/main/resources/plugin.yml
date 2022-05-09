@@ -1,0 +1,4 @@
+name: AnimatedTab
+version: '${project.version}'
+main: me.maanraj514.animatedtab.AnimatedTab
+api-version: 1.15
